@@ -1,1 +1,1 @@
-An implementation of Ryba's Tensor Decomposition of Imprimitivity Detection Algorithms in GAP
+An implementation of Ryba's Tensor Decomposition and Imprimitivity Detection Algorithms in GAP
